@@ -1,0 +1,52 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: "oswald", sans-serif;
+}
+
+Nav ul {
+    list-style: none;
+    background-color: #4a4a4f;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+    
+Nav li {
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 2.5%;
+}
+
+Nav a {
+    text-decoration: none;
+    color: #ffffff
+}
+
+Nav a:Hover {
+    background-color: #ffffff;
+    color: #4a4a4f;
+    
+}
+.card {
+    float: left;
+    width: 20px;
+    margin-left: 10%;
+ }
+ 
+ .card a {
+    text-align: center;
+ }
+ 
+ img {
+    width: 100px;
+    height: auto;
+ 
+ }
+ 
+h1 {
+    text-align: center;
+}
+ 
